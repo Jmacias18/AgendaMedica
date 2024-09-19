@@ -1,0 +1,25 @@
+.miboton{
+    width: 200px ;
+    height: 50px;
+    background-color: blue;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+
+
+}
+.fa-cloud{
+    font-size: 30px;
+    color: aqua;
+
+}
+#myID{
+    width: 200px ;
+    height: 50px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+}
